@@ -1,38 +1,5 @@
 # nomoreswiping-privacy
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>No More Swiping – Privacy Policy</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 720px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            color: #333;
-            line-height: 1.7;
-        }
-        h1 {
-            color: #1a1a1a;
-            font-size: 28px;
-            margin-bottom: 4px;
-        }
-        h2 {
-            color: #1a1a1a;
-            font-size: 20px;
-            margin-top: 32px;
-        }
-        .last-updated {
-            color: #888;
-            font-size: 14px;
-            margin-bottom: 32px;
-        }
-        a { color: #c4798a; }
-    </style>
-</head>
-<body>
+
 
 <h1>Privacy Policy</h1>
 <p class="last-updated">Last updated: February 13, 2026</p>
@@ -82,7 +49,7 @@
 <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
 
 <p>
-No More Swiping LLC<br>
+No More Swiping <br>
 Email: <a href="mailto:nomoreswipes@gmail.com">nomoreswipes@gmail.com</a>
 </p>
 
