@@ -4,7 +4,7 @@
 <h1>Privacy Policy</h1>
 <p class="last-updated">Last updated: February 13, 2026</p>
 
-<p>No More Swiping ("the App") is developed and operated by No More Swiping LLC ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.</p>
+<p>Get to Know Yourself and Pet Grief ("the App") is developed and operated by A Weber ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.</p>
 
 <h2>Information We Collect</h2>
 
@@ -49,7 +49,7 @@
 <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
 
 <p>
-No More Swiping <br>
+A Weber <br>
 Email: <a href="mailto:nomoreswipes@gmail.com">nomoreswipes@gmail.com</a>
 </p>
 
