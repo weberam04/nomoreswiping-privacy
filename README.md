@@ -4,7 +4,7 @@
 <h1>Privacy Policy</h1>
 <p class="last-updated">Last updated: February 13, 2026</p>
 
-<p>Get to Know Yourself and Pet Grief ("the App") is developed and operated by A Weber ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.</p>
+<p>InterQ and Pet Grief ("the App") is developed and operated by A Weber ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.</p>
 
 <h2>Information We Collect</h2>
 
