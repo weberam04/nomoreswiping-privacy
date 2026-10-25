@@ -1,57 +1,90 @@
-# nomoreswiping-privacy
+# Privacy Policy
 
+Last updated: October 25, 2026
 
-<h1>Privacy Policy</h1>
-<p class="last-updated">Last updated: February 13, 2026</p>
+InterQ and Pet Grief are developed and operated by A Weber ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information each app collects, how it is used, and your choices regarding that information.
 
-<p>InterQ and Pet Grief ("the App") is developed and operated by A Weber ("we," "us," or "our"). We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that information.</p>
+---
 
-<h2>Information We Collect</h2>
+## Pet Grief
 
-<p><strong>Profile Information:</strong> When you set up the App, we collect your first name and preferences (such as your preferred Charlie companion gender). This information is stored locally on your device and is not transmitted to external servers.</p>
+### Information We Collect
 
-<p><strong>Assessment Results:</strong> When you complete personality assessments within the App (such as attachment style, love language, dating persona, emotional availability, and self-awareness quizzes), your results are stored locally on your device. These results are used to personalize your experience with the App's AI companion feature.</p>
+**Account Information.** When you create an account, we collect your email address. Your email is stored on our servers (hosted by Supabase) and is used to sign you in and to keep your saved content available across devices.
 
-<p><strong>Conversation Data:</strong> Messages you exchange with the App's AI companion ("Charlie") are processed in real time to generate responses. Conversation text is sent to Anthropic's API (the AI service that powers Charlie) for the sole purpose of generating responses. We do not store conversation history on external servers. Conversation data exists only during your active session and in local device memory.</p>
+**Pet Profiles.** When you set up Pet Grief, we collect the information you enter about your pet (such as your pet's name, kind, breed, and personality details) and your preferences. This information is stored on your device and, when you are signed in, synced to your account on our servers so it can be backed up and restored.
 
-<p><strong>Memory Signals:</strong> The App may extract brief factual notes from your conversations (such as your interests or life events) to help Charlie remember details about you across sessions. These memory signals are stored locally on your device.</p>
+**Journal Entries.** Journal entries you write in Pet Grief are stored on your device and, when you are signed in, synced to your account on our servers.
 
-<p><strong>Photos:</strong> If you use the Photo Critique feature, selected photos are sent to Anthropic's API for analysis. Photos are not stored on any external server and are used solely for generating feedback during your session.</p>
+**Conversation Data.** Messages you exchange with the app's AI companion are sent through our server to the AI provider (Anthropic's Claude API) solely to generate responses. When you are signed in, your conversation history is also stored with your account on our servers so you can continue past conversations and restore them on another device.
 
-<h2>Third-Party Services</h2>
+**Memory Signals.** The app may keep brief factual notes from your conversations (such as details about your pet) to personalize your experience. These are stored on your device and, when you are signed in, synced to your account on our servers.
 
-<p>The App uses <strong>Anthropic's Claude API</strong> to power the AI companion and photo analysis features. When you interact with Charlie or use the Photo Critique feature, your messages and/or photos are sent to Anthropic's servers for processing. Anthropic processes this data in accordance with their privacy policy, available at <a href="https://www.anthropic.com/privacy">anthropic.com/privacy</a>. We do not control how Anthropic handles data once it is transmitted to their servers, and we encourage you to review their privacy policy.</p>
+**Photos.** Photos you add to Rainbow Bridge community posts are stored on our servers so they can be shown to other users, alongside a device identifier and the display name you choose. If you use the reunion image feature, the photos you select (such as a photo of you and a photo of your pet) are sent through our server to our image-processing provider, fal.ai, which generates the reunion image and returns it to the app. Under fal.ai's standard data retention, submitted images and generated results may be retained by fal for up to 90 days.
 
-<p>No other third-party services receive your personal data. We do not use analytics trackers, advertising networks, or data brokers.</p>
+**Push Notification Tokens.** If you allow notifications, your device's push token and a device identifier are stored on our servers so we can send journal reminders and community comment notifications (via Google Firebase Cloud Messaging).
 
-<h2>Data Storage and Security</h2>
+**Subscriptions.** Subscriptions are processed by Apple through the App Store. Our systems do not receive your payment card details.
 
-<p>All personal data — including your name, preferences, assessment results, and conversation memories — is stored locally on your device using iOS standard storage mechanisms. We do not maintain external databases or servers that store your personal information. If you delete the App, all locally stored data will be permanently removed from your device.</p>
+### Third-Party Services
 
-<h2>Data Retention</h2>
+Pet Grief uses the following third-party services to provide the features described above: Supabase (accounts, data storage, and server functions), Anthropic's Claude API (AI companion responses), fal.ai (reunion image generation), Google Firebase Cloud Messaging (push notifications), and Apple In-App Purchase (subscriptions). These providers process data under their own privacy policies.
 
-<p>Your data remains on your device for as long as the App is installed. You can clear your conversation memories and assessment results at any time through the App's settings. Uninstalling the App permanently deletes all associated data from your device.</p>
+### Data Storage and Security
 
-<h2>Children's Privacy</h2>
+Your content is stored on your device and, when you are signed in, on our Supabase-hosted servers so it can be backed up and restored. Data is transmitted using industry-standard transport encryption.
 
-<p>The App is intended for users aged 18 and older. We do not knowingly collect personal information from children under 18. If we become aware that we have collected information from a child under 18, we will take steps to delete that information promptly.</p>
+### Data Retention and Deletion
 
-<h2>Your Rights</h2>
+Your cloud data remains associated with your account while your account exists. You can delete your account at any time in the app's Settings. Deleting your account removes your account and its associated cloud data - including pet profiles, journal entries, conversation history, and memory notes - from our servers, and clears this device's account-scoped local data. Push notification records linked to your device (its push token and a device identifier) are not tied to your account and may remain on our servers after account deletion. Your notification setting and any data saved before you signed in stay on your device. Deleting your account does not cancel a subscription; you can manage or cancel a subscription in your Apple ID settings. Photos stored on our servers are removed by an automatic cleanup process that runs after deletion, so photo removal may not be immediate; during that cleanup, a queue temporarily retains your account identifier, your photo file names, and deletion timestamps, kept until cleanup completes and for up to 30 days afterward, then permanently removed. Images sent to or generated by fal.ai through the reunion feature are covered by fal.ai's own retention (up to 90 days) and are not part of this cleanup. If you need help deleting your account or have questions about your data, contact us at the email address below.
 
-<p>Because your data is stored locally on your device, you have full control over it at all times. You can view, modify, or delete your data directly within the App or by uninstalling the App. If you have questions about your data or wish to exercise any privacy rights, please contact us at the email address below.</p>
+### Children's Privacy
 
-<h2>Changes to This Policy</h2>
+The app is intended for users aged 18 and older. We do not knowingly collect personal information from children under 18. If we become aware that we have collected information from a child under 18, we will take steps to delete that information promptly.
 
-<p>We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last updated" date. We encourage you to review this page periodically.</p>
+### Your Rights
 
-<h2>Contact Us</h2>
+You can view and modify your content within the app. If you have questions about your data or wish to exercise any privacy rights, please contact us at the email address below.
 
-<p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
+---
 
-<p>
-A Weber <br>
-Email: <a href="mailto:nomoreswipes@gmail.com">nomoreswipes@gmail.com</a>
-</p>
+## InterQ
 
-</body>
-</html>
+### Information We Collect
+
+**Profile Information.** When you set up the App, we collect your first name and preferences (such as your preferred Charlie companion gender). This information is stored locally on your device and is not transmitted to external servers.
+
+**Assessment Results.** When you complete personality assessments within the App (such as attachment style, love language, dating persona, emotional availability, and self-awareness quizzes), your results are stored locally on your device. These results are used to personalize your experience with the App's AI companion feature.
+
+**Conversation Data.** Messages you exchange with the App's AI companion ("Charlie") are processed in real time to generate responses. Conversation text is sent to Anthropic's API (the AI service that powers Charlie) for the sole purpose of generating responses. We do not store conversation history on external servers. Conversation data exists only during your active session and in local device memory.
+
+**Memory Signals.** The App may extract brief factual notes from your conversations (such as your interests or life events) to help Charlie remember details about you across sessions. These memory signals are stored locally on your device.
+
+**Photos.** If you use the Photo Critique feature, selected photos are sent to Anthropic's API for analysis. Photos are not stored on any external server and are used solely for generating feedback during your session.
+
+### Third-Party Services
+
+InterQ uses Anthropic's Claude API to power the AI companion and photo analysis features. When you interact with Charlie or use the Photo Critique feature, your messages and/or photos are sent to Anthropic's servers for processing. Anthropic processes this data in accordance with their privacy policy, available at anthropic.com/privacy. We do not control how Anthropic handles data once it is transmitted to their servers, and we encourage you to review their privacy policy.
+
+No other third-party services receive your personal data from InterQ. InterQ does not use analytics trackers, advertising networks, or data brokers.
+
+### Data Storage and Security
+
+All InterQ personal data - including your name, preferences, assessment results, and conversation memories - is stored locally on your device using iOS standard storage mechanisms. We do not maintain external databases or servers that store your InterQ personal information. If you delete InterQ, all locally stored data will be permanently removed from your device.
+
+### Data Retention
+
+Your InterQ data remains on your device for as long as the App is installed. You can clear your conversation memories and assessment results at any time through the App's settings. Uninstalling the App permanently deletes all associated data from your device.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last updated" date. We encourage you to review this page periodically.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+A Weber
+Email: appscre8or@gmail.com
